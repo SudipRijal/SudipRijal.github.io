@@ -168,3 +168,9 @@ a:hover {
   font-size: 1.2rem ;
   font-family: "Montserrat";
 }
+
+.container-fluid{
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+
