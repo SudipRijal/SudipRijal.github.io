@@ -150,8 +150,8 @@ header h1, nav, nav li{
 	display: inline-block;
 }
 header{
-	background-color: black;
-	height: 50px;
+	background-color: #40514E;
+	height: 75px;
 	width: 100%;
 	position: fixed;
 	top: 0;
@@ -163,17 +163,17 @@ header{
 }
 header h1 a{
 	font-family: LeagueGothic, Verdana, Arial, sans-serif;
-	color: white;
+	color: #66BFBF;
 	text-decoration: none;
 	text-transform: uppercase;
 	font-weight: normal;
 	font-size: 28px;
 	position:absolute;
 	top:8px;
-	left: 35px;
+	left: 25px;
 }
 #version{
-	color: white;
+	color: #66BFBF;
 	font-size: 10px;
 	position: relative;
 	top: 12px;
@@ -185,7 +185,7 @@ nav{
 	left: 70.5%;
 }
 nav li a{
-	color: white;
+	color: #66BFBF;
 	text-decoration: none;
 	font-family: Verdana, Arial, sans-serif;
 	font-size: 13px;
